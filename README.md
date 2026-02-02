@@ -27,6 +27,13 @@ This project demonstrates a professional end-to-end data engineering and analysi
 - Product performance ranking.
 - Revenue distribution by city.
 
+## 📈 Key Results (2025 Analysis)
+After processing 10,000 records, the pipeline yielded the following insights:
+- **Total Revenue:** $18,339,362.04
+- **Average Order Value (AOV):** $1,833.94
+- **Top Segment:** The type of customer 'User' segment represents the highest revenue share.
+- **Regional Insight:** Identified a significant market gap in the 'Office' category within the Seville region.
+
 ## 🚀 How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install pandas numpy seaborn matplotlib openpyxl`.
